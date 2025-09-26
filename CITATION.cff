@@ -1,0 +1,33 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  R code to generate a sqlite database from the digitised
+  Enggano-German Dictionary (Kähler 1987)
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Gede Primahadi Wijaya
+    family-names: Rajeg
+    email: primahadi_wijaya@unud.ac.id
+    name-particle: Gede Primahadi Wijaya
+    affiliation: University of Oxford; Udayana University
+    orcid: 'https://orcid.org/0000-0002-2047-8621'
+repository-code: 'https://github.com/engganolang/kahler-1987-sqlite'
+url: 'https://enggano.shinyapps.io/enggano-german-dictionary/'
+repository: 'https://github.com/engganolang/kahler-1987'
+keywords:
+  - Enggano
+  - sqlite database
+  - University of Oxford
+  - Austronesian
+  - Enggano - German Dictionary
+  - Kamus Bahasa Enggano - Jerman
+  - lexicography
+  - leksikografi
+license: CC-BY-NC-SA-4.0
+version: 1.0.0
+date-released: '2025-03-03'
