@@ -38,4 +38,16 @@ BY-NC-SA 4.0
 
 ## Overview
 
-To be worked on …
+This repository can be cited as follows:
+
+> Rajeg, G. P. W. (2025). R code to generate a sqlite database from the
+> digitised Enggano-German Dictionary (Kähler 1987) (Version 1.0.0)
+> \[Computer software\].
+> <https://github.com/engganolang/kahler-1987-sqlite>
+
+The resulting sqlite database file (from the digitised dataset \[[Rajeg
+et al., 2024](https://doi.org/10.25446/oxford.28057742.v1)\]) is used as
+the underlying data for the Enggano-German Dictionary Online Shiny [web
+application](https://enggano.shinyapps.io/enggano-german-dictionary/)
+([Rajeg et al., 2025](https://doi.org/10.25446/oxford.28532666)) derived
+from Kähler ([1987](https://search.worldcat.org/title/18191699)).
